@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="parsifal.gif" width="100%" alt="Парсифаль — задумчивый рыцарь с огромным мечом под ночным небом" />
+<img src="https://raw.githubusercontent.com/TrueParSIfal/TrueParSIfal/be1fe5a8b59b0290da85218ed85bd116bd81d822/parsifal.gif" width="100%" alt="Парсифаль — задумчивый рыцарь с огромным мечом под ночным небом" />
 
 <br />
 
@@ -32,4 +32,5 @@
 <div align="center">
 <sub>Связаться: <a href="https://t.me/FirstParsiFal">@FirstParsiFal</a> · Discord: <code>zhmurik6806</code></sub>
 </div>
+
 
